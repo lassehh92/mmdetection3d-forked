@@ -106,7 +106,7 @@ venv.bak/
 .mypy_cache/
 
 # cython generated cpp
-data
+#data
 .vscode
 .idea
 
@@ -128,6 +128,7 @@ mmdet3d/.mim
 data/s3dis/Stanford3dDataset_v1.2_Aligned_Version/
 data/scannet/scans/
 data/sunrgbd/OFFICIAL_SUNRGBD/
+data/muffe3d/points/
 *.obj
 *.ply
 
